@@ -1,0 +1,8 @@
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/weather2/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/weather2/build/android/gen/com/weather2/school/ApplicationStylesheet.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/weather2/build/android/gen/com/weather2/school/AssetCryptImpl.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/weather2/build/android/gen/com/weather2/school/R.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/weather2/build/android/gen/com/weather2/school/Weather2Activity.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/weather2/build/android/gen/com/weather2/school/Weather2AppInfo.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/weather2/build/android/gen/com/weather2/school/Weather2Application.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/weather2/build/android/gen/ti/modules/titanium/ui/R.java"

@@ -1,0 +1,1 @@
+var win1=Ti.UI.createWindow({backgroundColor:"gray",layout:"vertical"}),label1=Ti.UI.createLabel({text:"latitude: ",top:20,color:"white"}),label2=Ti.UI.createLabel({text:"longitude: ",top:20,color:"white"});win1.add(label1),win1.open();

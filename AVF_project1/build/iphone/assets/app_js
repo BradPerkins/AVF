@@ -1,0 +1,1 @@
+Ti.Network.online?(geo=require("geo"),geo.getGeo()):alert("No Network");
