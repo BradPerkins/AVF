@@ -1,0 +1,1 @@
+var api=require("api");exports.getGeo=function(){Ti.Geolocation.purpose="Coordinates Needed",Ti.Geolocation.getCurrentPosition(function(e){if("android"===Ti.Platform.osname)var a=e.coords.latitude,t=e.coords.longitude;else var a=40.890064,t=-82.66253662;api.getData(a,t)},function(){alert("Error Callback")},{timeout:1e4})};

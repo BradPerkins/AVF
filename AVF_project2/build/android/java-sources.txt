@@ -1,0 +1,8 @@
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/AVF_project2/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/AVF_project2/build/android/gen/com/avfproject2/ApplicationStylesheet.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/AVF_project2/build/android/gen/com/avfproject2/AssetCryptImpl.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/AVF_project2/build/android/gen/com/avfproject2/Avf_project2Activity.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/AVF_project2/build/android/gen/com/avfproject2/Avf_project2AppInfo.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/AVF_project2/build/android/gen/com/avfproject2/Avf_project2Application.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/AVF_project2/build/android/gen/com/avfproject2/R.java"
+"/Users/bradperkins/Documents/Titanium_Studio_Workspace/AVF_project2/build/android/gen/ti/modules/titanium/ui/R.java"
